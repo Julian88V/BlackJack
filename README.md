@@ -9,4 +9,4 @@
 #### From evaluating the process of the game I can pick out more of the objects that I will need to possibly make for a better functionality of the game. I can see that when you play the game you set at a table that technically has the rules of the game. *Table *Hand *Deck *Card *Rank *Suits
 
 ### Figure Out the Hand
-#### In the beginning I was creating too many classes. One hand class for the player and another for the dealer. This is where I noticed that I was having some difficulty understanding how methods worked. Through some work and help I noticed that I could give the dealer and the player the object of a hand with one method. 
+#### In the beginning I was creating too many classes. One hand class for the player and another for the dealer. This is where I noticed that I was having some difficulty with the methods to work. Through some effort I noticed that I could give the dealer and the player the object of a hand with one method. 
